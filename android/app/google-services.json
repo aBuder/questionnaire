@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942341068283",
+    "firebase_url": "https://fastic-test.firebaseio.com",
+    "project_id": "fastic-test",
+    "storage_bucket": "fastic-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942341068283:android:bc1a02478ac484529ae75e",
+        "android_client_info": {
+          "package_name": "fastic.buder.dev.fastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942341068283-nq23lnn2mt3v37hml7n5gkteg2ope177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvFUcFdUpUsSUlchfYpG6PTriWx_jFTsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942341068283-nq23lnn2mt3v37hml7n5gkteg2ope177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

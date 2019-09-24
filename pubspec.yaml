@@ -1,0 +1,47 @@
+name: fastic
+description: Fastic demo app
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_core: ^0.4.0+1
+  firebase_analytics: ^4.0.2
+  firebase_remote_config: ^0.2.0+7
+  equatable: ^0.5.1
+  bloc: ^0.15.0
+  flutter_bloc: ^0.21.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - images/question_1_header.png
+   - images/question_2_header.png
+   - images/question_3_header.png
+   - images/question_4_header.png
+   - images/question_5_header.png
+   - images/question_6_header.png
+   - images/2.0x/question_1_header.png
+   - images/2.0x/question_2_header.png
+   - images/2.0x/question_3_header.png
+   - images/2.0x/question_4_header.png
+   - images/2.0x/question_5_header.png
+   - images/2.0x/question_6_header.png
+   - images/3.0x/question_1_header.png
+   - images/3.0x/question_2_header.png
+   - images/3.0x/question_3_header.png
+   - images/3.0x/question_4_header.png
+   - images/3.0x/question_5_header.png
+   - images/3.0x/question_6_header.png

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>942341068283-7s61bsui8f84rmsdiansl6gd1up2buc6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.942341068283-7s61bsui8f84rmsdiansl6gd1up2buc6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZkrnpozysAzGad20v7VU6mF7f1X_yOoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>942341068283</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fastic.buder.dev.fastic</string>
+	<key>PROJECT_ID</key>
+	<string>fastic-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fastic-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:942341068283:ios:b20bef4c55beea0e9ae75e</string>
+	<key>DATABASE_URL</key>
+	<string>https://fastic-test.firebaseio.com</string>
+</dict>
+</plist>
